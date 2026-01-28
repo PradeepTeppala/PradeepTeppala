@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a passionate Frontend Web Developer with a strong foundation in HTML, CSS, JavaScript and React JS, focused on building responsive and user-friendly web applications. I enjoy creating clean interfaces and writing maintainable code while continuously improving my skills in modern frontend technologies.<br><br>• 🌐 You can find my Portfolio <a href="https://pradeepteppala.vercel.app/" target="_blank">Here</a>.<br>• 📄 Here is my latest <a href="https://drive.google.com/file/d/1fAObK_mv0y8RLq2XTgpyaeyydWuP853z/view">Resume</a>.<br>• 📧 Mail Me: pradeepteppala1212@gmail.com </p>
+<p align="left">I am a passionate Frontend Web Developer with a strong foundation in HTML, CSS, JavaScript and React JS, focused on building responsive and user-friendly web applications. I enjoy creating clean interfaces and writing maintainable code while continuously improving my skills in modern frontend technologies.<br><br>• 🌐 You can find my Portfolio <a href="https://pradeepteppala.vercel.app/" target="_blank">Here</a>.<br>• 📄 Here is my latest <a href="https://drive.google.com/uc?export=download&id=1fAObK_mv0y8RLq2XTgpyaeyydWuP853z">Resume</a>.<br>• 📧 Mail Me: pradeepteppala1212@gmail.com </p>
 
 ###
 
