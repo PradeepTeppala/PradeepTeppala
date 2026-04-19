@@ -1,95 +1,67 @@
-<h1 align="center">Hi 👋, I'm Pradeep Teppala</h1>
-<h3 align="center">Frontend Developer | React | WordPress | Building Responsive Web Experiences</h3>
+<h2 align="center">Hi 👋, I'm Pradeep Teppala</h2>
 
----
+###
 
-## 🚀 About Me
-- 💻 Frontend Developer with a strong foundation in **HTML, CSS, JavaScript, and React**
-- 🌐 Experienced in building websites using **WordPress & Elementor**
-- 🛠️ Passionate about creating **responsive, user-friendly, and modern web applications**
-- 📈 Currently improving my skills in **React and real-world project development**
-- 🎯 Goal: To secure a **Frontend Developer role** and contribute to impactful projects
+<br clear="both">
 
----
+<h4 align="center">Frontend Developer | React | WordPress | Building Responsive Web Experiences</h4>
 
-## 🛠️ Skills & Technologies
+###
 
-### 👨‍💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="left">
+  <a href="https://www.linkedin.com/in/pradeepteppala/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_leo_pradeep_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="pradeepteppala1212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+###
 
-### 🌐 CMS & Tools
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
+<h2 align="left">🚀 About Me</h2>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+###
 
----
+<p align="left">I am a passionate frontend web developer with a strong foundation in HTML, CSS, JavaScript, and React.js, focused on building responsive and user-friendly web applications. I enjoy creating clean interfaces and writing maintainable code while continuously improving my skills in modern frontend technologies.</p>
 
-## 📂 Projects
+###
 
-### 🔹 Project 1: Portfolio Website
-- Personal portfolio showcasing skills and projects  
-- Built with HTML, CSS, and JavaScript  
-- 🔗 Live Demo: [Add Link Here]
+<br clear="both">
 
----
+<p align="left">💻 Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.<br>🌐 Familiar with building websites using WordPress & Elementor.<br>🛠️ Passionate about creating responsive, user-friendly, and modern web applications.<br>📈 Currently improving my skills in React, WordPress, and real-world project development.<br>🎯 Goal: To secure a Frontend Developer role and contribute to impactful projects</p>
 
-### 🔹 Project 2: React Web App
-- Dynamic web application using React  
-- Component-based architecture and responsive design  
-- 🔗 Live Demo: [Add Link Here]
+###
 
----
+<h2 align="left">🛠️ Skills & Technologies</h2>
 
-### 🔹 Project 3: WordPress Business Website
-- Fully responsive business website using WordPress & Elementor  
-- Custom layout and modern UI design  
-- 🔗 Live Demo: [Add Link Here]
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+</div>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PradeepTeppala&show_icons=true&theme=default" alt="github stats" />
-</p>
+<h2 align="left">🌐 Connect With Me</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepTeppala" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepTeppala&layout=compact" alt="top languages" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: [Add Your LinkedIn Link]
-- 📧 Email: pradeepteppala1212@gmail.com
-- 🌍 Portfolio: [Add Portfolio Link]
-
----
-
-## 🔥 Current Focus
-- Improving **React skills**
-- Building **real-world frontend projects**
-- Strengthening **problem-solving and UI/UX skills**
-
----
-
-## ✨ Fun Fact
-- I enjoy turning ideas into real-world web applications 🚀
-
----
-
-⭐️ From [PradeepTeppala](https://github.com/PradeepTeppala)
+###
