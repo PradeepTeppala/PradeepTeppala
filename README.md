@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Pradeep Teppala</h2>
-<br clear="both">
 <h4 align="center">Frontend Developer | React | WordPress | Building Responsive Web Experiences</h4>
 <div align="left">
   <a href="https://www.linkedin.com/in/pradeepteppala/" target="_blank">
