@@ -1,13 +1,6 @@
 <h2 align="center">Hi 👋, I'm Pradeep Teppala</h2>
-
-###
-
 <br clear="both">
-
 <h4 align="center">Frontend Developer | React | WordPress | Building Responsive Web Experiences</h4>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/pradeepteppala/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
